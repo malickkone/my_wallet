@@ -26,7 +26,7 @@ class MyCard extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 const SizedBox(
-                  height: 5,
+                  height: 6,
                 ),
                 Image.asset('lib/icons/visa.png', height: 50,)
               ],
